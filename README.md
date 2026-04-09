@@ -1,42 +1,50 @@
-# Yoojeong Lee
-Embedded Software Engineer @GE Appliances
+# 👩‍💻 Yoojeong Lee  
+**Embedded Software Engineer @ GE Appliances**
 
-### Experience
-Embedded Software Engineer @GE Appliances, 2022.4 ~ 
+---
 
-Frontend Engineer @PACE, 2021.7 ~ 2022.1
+## Experience  
+- **Embedded Software Engineer** — GE Appliances  
+  *Apr 2022 – Present*  
 
-### Freelancing
-Frontend Engineer @Poapper, 2021.9 ~ 2022.1
+- **Frontend Engineer** — PACE  
+  *Jul 2021 – Jan 2022*  
 
-### Internships
-Samsung Electronics
+---
 
-Wheerang
+## Freelance Experience  
+- **Frontend Engineer** — Poapper  
+  *Sep 2021 – Jan 2022*  
 
-### Education
-POSTECH(Pohang University of Science and Technology)
+---
 
-Major: Creative IT Engineering
+## Internships  
+- Samsung Electronics  
+- Wheerang  
 
-Minor: Entrepreneurship
+---
 
-Bachelor's in Engineering, Cum Laude(3.42/4.30)
+## Education  
+**POSTECH (Pohang University of Science and Technology)**  
+- B.E. in Creative IT Engineering  
+- Minor in Entrepreneurship  
+- *Cum Laude* (GPA: 3.42/4.30)  
 
+---
 
-### Experience abroad
-Elementary student in New Jersey, USA, 2022 ~ 2006
+## International Experience  
+- **New Jersey, USA** — Elementary Education  
 
-UC Berkeley
+- **University of California, Berkeley**  
+  - Music Theory, Acting  
 
-- Music theory, Acting classes
+- **Stony Brook University (New York)**  
+  - Biotechnology, Physics II, Linear Algebra  
 
-Stony Brook University(located in New York)
+---
 
-- Biotechnology, Physics 2, Linear Algebra
-
-### Languages
-- Korean: Native
-- English: CEFR standard, C1(Professional Working Proficiency)
-- German: A1+
-- Japanese: A1+
+## Languages  
+- 🇰🇷 Korean: Native  
+- 🇺🇸 English: C1 (Professional Working Proficiency)  
+- 🇩🇪 German: A1+  
+- 🇯🇵 Japanese: A1+  
