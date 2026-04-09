@@ -33,13 +33,16 @@
 ---
 
 ## International Experience  
-- **New Jersey, USA** — Elementary Education  
+- **New Jersey, USA** — Elementary Education
+  *2002 – 2006*  
 
 - **University of California, Berkeley**  
-  - Music Theory, Acting  
+  - Music Theory, Acting
+    Summer Session, *June 2015 – Aug 2015*  
 
 - **Stony Brook University (New York)**  
-  - Biotechnology, Physics II, Linear Algebra  
+  - Biotechnology, Physics II, Linear Algebra
+  - Fall Semester, *Aug 2015 – Dec 2015*  
 
 ---
 
